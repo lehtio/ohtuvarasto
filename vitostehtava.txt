@@ -1,0 +1,2 @@
+tässä vitostehtävässä alkuperäiseen klooniin lisättävä tiedosto, joka halutaan 
+ensin pushata gittiin ja viedä sitten toiseen kotikoneen kansioon pullaamalla.
