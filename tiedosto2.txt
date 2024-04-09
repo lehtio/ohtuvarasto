@@ -1,2 +1,4 @@
 Tässä on tiedosto jossa on sisältönä tekstiä tehtävää 3 varten. Tämä on eri
 tiedosto kuin tiedosto1  
+
+Muokataan myös tätä tehtävää 3 varten
