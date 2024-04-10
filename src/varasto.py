@@ -38,7 +38,7 @@ class Varasto:
             return kaikki_mita_voidaan
 
         self.saldo = self.saldo - maara
-
+        testi=1+1
         return maara
 
     def __str__(self):
