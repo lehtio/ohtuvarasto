@@ -38,10 +38,9 @@ class Varasto:
             return kaikki_mita_voidaan
 
         self.saldo = self.saldo - maara
-        
+         
         return maara
 #kommentti jeejee
-#kommentoidaan lisää jotta saadaan repo testattua
     def __str__(self):
         return f"saldo = {self.saldo:.1f}, vielä tilaa {self.paljonko_mahtuu():.1f}"
 
